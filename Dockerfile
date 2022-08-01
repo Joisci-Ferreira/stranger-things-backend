@@ -1,6 +1,6 @@
 FROM node:14-alpine
 
-WORKDIR /
+WORKDIR /app
 
 RUN npm install
 
